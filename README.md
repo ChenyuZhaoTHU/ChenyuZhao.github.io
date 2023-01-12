@@ -1,2 +1,2 @@
-# juren1987.github.io
-Ju Ren's homepage
+# HaoyangWang.github.io
+Haoyang Wang's homepage
