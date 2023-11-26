@@ -1,0 +1,114 @@
+[
+    {
+        "bibtex": "@inproceedings{wang2023califormer,\ntitle={CaliFormer: Leveraging Unlabeled Measurements to Calibrate Sensors with Self-supervised Learning},\nauthor={Wang, Haoyang and Liu, Yuxuan and Zhao, Chenyu and He, Jiayou and Ding, Wenbo and Chen, Xinlei},\nbooktitle={Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing & the 2023 ACM International Symposium on Wearable Computing},\npages={743--748},\nyear={2023}\n}\n",
+        "authors": {
+            "boldAuthors": ["Haoyang Wang"],
+            "correspondingAuthors": [
+                "Xinlei Chen"
+            ],
+            "equalContributionAuthors": [
+                "Haoyang Wang",
+                "Yuxuan Liu"
+            ]
+        },
+        "note": "",
+        "resources": {
+            "pdf": "./files/PDF/CaliFormer_CPD.pdf",
+            "slides": "./files/Slides/CaliFormer_PPT.pdf"
+        },
+        "abstract": "Accurate calibration of low-cost sensors is critical for improving their potential in environmental monitoring. State-of-the-art (SOTA) methods based on supervised learning commonly calibrate sensor measurements with ground truth from the immediate past or future. However, these techniques rely heavily on labeled data which is challenging to obtain in real-world scenarios. Thus, this paper introduces CaliFormer, a novel representation learning model using self-supervised learning to extract time- and spatial-invariant knowledge from unlabeled measurements. Moreover, we propose pre-training enhancements and model architecture modifications to help train CaliFormer. We then fine-tune the calibration model with the learned representations, which is supervised by limited labeled data. Finally, we comprehensively evaluate our calibration model with a dataset collected by low-cost sensors. Results show that our model outperforms other SOTA calibration methods significantly.",
+        "type": true
+    },
+    {
+        "bibtex": "@inproceedings{zhao2023smoothlander,\ntitle={SmoothLander: A Quadrotor Landing Control System with Smooth Trajectory Guarantee Based on Reinforcement Learning},\nauthor={Zhao, Chenyu and Wang, Haoyang and Li, Jiaqi and Man, Fanhang and Mu, Shilong and Ding, Wenbo and Zhang, Xiao-Ping and Chen, Xinlei},\nbooktitle={Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing & the 2023 ACM International Symposium on Wearable Computing},\npages={682--687},\nyear={2023}\n}\n",
+        "authors": {
+            "boldAuthors": ["Haoyang Wang"],
+            "correspondingAuthors": [
+                "Xinlei Chen"
+            ],
+            "equalContributionAuthors": [
+                "Chenyu Zhao",
+                "Haoyang Wang"
+            ]
+        },
+        "note": "",
+        "resources": {
+            "pdf": "./files/PDF/smoothlander_CPD.pdf",
+            "slides": null
+        },
+        "abstract": "The landing process of the quadrotors can be affected by the disturbance from the ground effect when approaching the landing surface. Such a disturbance significantly increases the chances of collision and jittering of the quadrotors, thereby posing threats to the safety of both the quadrotors and the mounted equipment. In light of this, we propose SmoothLander, an aerodynamics and reinforcement learning-based control system to stabilize the quadrotors under the influence of the ground effect and control noise. First, we design a landing trajectory for the quadrotor in accordance with aerodynamics. Then we design a reinforcement learning-based command generator to effectively optimize the quadrotor’s landing behavior. We evaluate our control system through physical feature-based simulation and in-field experiments. The results show that our method can enable the quadrotor to land more smoothly and stably against control noise than the baseline.",
+        "type": true
+    },
+    {
+        "bibtex": "@inproceedings{wang2023teng,\ntitle={TENG-enabled Self-powered Human-machine Interfaces for the Metaverse},\nauthor={Wang, Haoyang and Man, Fanhang and Wang, Zihan and Liu, Yuxuan and Chen, Xinlei and Ding, Wenbo},\nbooktitle={Proceedings of the 22nd International Conference on Information Processing in Sensor Networks},\npages={306--307},\nyear={2023}\n}\n",
+        "authors": {
+            "boldAuthors": ["Haoyang Wang"],
+            "correspondingAuthors": [
+                "Xinlei Chen"
+            ],
+            "equalContributionAuthors": [
+                "Haoyang Wang",
+                "Fanhang Man"
+            ]
+        },
+        "note": "",
+        "resources": {
+            "pdf": "./files/PDF/TENG_IPSN.pdf",
+            "slides": null
+        },
+        "abstract": "Human-machine interface (HMI) of high degrees of freedom (DoF) is one of the most critical bases of the metaverse. The ideal HMI for the metaverse should be cheap, robust, customizable, and ergonomically friendly. In light of this, we propose a triboelectric nanogenerator (TENG)-based sensing system. We developed a lowcost, soft, light, and customizable TENG sensor to collect data from the human body. We then used an artificial neural network (ANN) to obtain the corresponding human motion from collected sensory data. The effectiveness of the proposed system is demonstrated with experiments of a working prototype.",
+        "type": true
+    },
+    {
+        "bibtex": "@inproceedings{wang2022h,\ntitle={H-SwarmLoc: Efficient Scheduling for Localization of Heterogeneous MAV Swarm with Deep Reinforcement Learning},\nauthor={Wang, Haoyang and Chen, Xuecheng and Cheng, Yuhan and Wu, Chenye and Dang, Fan and Chen, Xinlei},\nbooktitle={Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems},\npages={1148--1154},\nyear={2022}\n}\n",
+        "authors": {
+            "boldAuthors": ["Haoyang Wang"],
+            "correspondingAuthors": [
+                "Xinlei Chen"
+            ],
+            "equalContributionAuthors": [
+                "Haoyang Wang",
+                "Xuecheng Chen"
+            ]
+        },
+        "note": "",
+        "resources": {
+            "pdf": "./files/PDF/HSwarmLoc_CML_IoT.pdf",
+            "slides": "./files/Slides/H-SwarmLoc_PPT.pdf"
+        },
+        "abstract": "Emergency rescue scenarios are considered to be high-risk scenarios. Using a micro air vehicle (MAV) swarm to explore the environment can provide valuable environmental information. However, due to the absence of localization infrastructure and the limited on-board capabilities, it’s challenging for the low-cost MAV swarm to maintain precise localization. In this paper, a collaborative localization system for the low-cost heterogeneous MAV swarm is proposed. This system takes full advantage of advanced MAV to effectively achieve accurate localization of the heterogeneous MAV swarm through collaboration. Subsequently, H-SwarmLoc, a reinforcement learning-based planning method is proposed to plan the advanced MAV with a non-myopic objective in real-time. The experimental results show that the localization performance of our method improves 40% on average compared with baselines.",
+        "type": true
+    },
+    {
+        "bibtex": "@inproceedings{chen2022deliversense,\ntitle={DeliverSense: Efficient delivery drone scheduling for crowdsensing with deep reinforcement learning},\nauthor={Chen, Xuecheng and Wang, Haoyang and Li, Zuxin and Ding, Wenbo and Dang, Fan and Wu, Chengye and Chen, Xinlei},\nbooktitle={Adjunct Proceedings of the 2022 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2022 ACM International Symposium on Wearable Computers},\npages={403--408},\nyear={2022}\n}\n",
+        "authors": {
+            "boldAuthors": ["Haoyang Wang"],
+            "correspondingAuthors": [
+                "Xinlei Chen"
+            ],
+            "equalContributionAuthors": null
+        },
+        "note": "",
+        "resources": {
+            "pdf": "./files/PDF/deliversense_CPD.pdf",
+            "slides": null
+        },
+        "abstract": "Delivery drones provide a promising sensing platform for Mobile Crowdsensing (MCS) due to their high mobility and large-scale deployment. However, due to limited battery lifetime and available resources, it is challenging to schedule large-scale delivery drones to derive both high crowdsensing and delivery performance, which is a highly complicated optimization problem with several coupled decision variables. In this paper, we first formalize the delivery drones scheduling problem as a mixed-integer nonlinear programming problem with both sensing and delivery utilities as dual objectives. Then we propose a novel framework DeliverSense with a reinforcement learning-based efficient solution, which decouples the highly complicated optimization search process and replaces the heavy computation via fast approximation. Evaluation results compared with state-of-the-art baseline show that DeliverSense improves the total utility by 13% and 23% on average under various energy budgets and numbers of selected routes, respectively. More importantly, our proposed method achieves much lower computational complexity which is nearly 3 times lower than the baseline.",
+        "type": true
+    },
+    {
+        "bibtex": "@article{guo2021lightweight,\ntitle={A lightweight verifiable trust based data collection approach for sensor--cloud systems},\nauthor={Guo, Jiawei and Wang, Haoyang and Liu, Wei and Huang, Guosheng and Gui, Jinsong and Zhang, Shaobo},\njournal={Journal of Systems Architecture},\nvolume={119},\npages={102219},\nyear={2021},\npublisher={Elsevier}\n}\n",
+        "authors": {
+            "boldAuthors": ["Haoyang Wang"]
+        },
+        "note": "",
+        "resources": {
+            "pdf": "./files/PDF/lightweight_JSA.pdf",
+            "slides": null
+        },
+        "abstract": "A Lightweight Verifiable Trust based Data Collection (LVT-DC) approach is proposed to obtain credible data for mobile vehicles network, in which, a large number of IoT devices are deployed in smart city, and Mobile Vehicles (MVs) collect data from IoT devices and report data to cloud to construct various applications. First, some IoT devices are selected as core-IoT device whose data more than others. Then, Unmanned Aerial Vehicles (UAV) delivers a short verification code to each core-IoT devices and collects its data, and it embeds verification code into the data when the MVs collect it in order for cloud to check. Last, a verifiable trust inference method is proposed which includes two types of trust calculations. (a) Direct trust: MVs If the reported data cannot recover the verification code or is inconsistent with the UAV collection result, reduce the trust of the MVs, (b) Trust inference: If the data of a non-core-IoT devices reported by a MVs is inconsistent with the trusted MVs, then reduce its trust. After a large number of experimental results, the LVT-DC approach can quickly and accurately identify the credibility of the data collector and ensure credible data collection.",
+        "type": false
+    }
+]
+
+

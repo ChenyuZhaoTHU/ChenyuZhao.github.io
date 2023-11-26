@@ -1,0 +1,14 @@
+[
+    {
+        "category": "Research", "list": [
+            {
+                "name": "H-SwarmLoc", 
+                "url": "https://dl.acm.org/doi/abs/10.1145/3560905.3568432", 
+                "content": "A collaborative localization system for the low-cost heterogeneous MAV swarm. This system takes full advantage of advanced MAV to effectively achieve accurate localization of the heterogeneous MAV swarm through collaboration. Subsequently, <i>H-SwarmLoc</i>, a reinforcement learning-based planning method is proposed to plan the advanced MAV with a non-myopic objective in real-time. The experimental results show that the localization performance of our method improves <b>40%</b> on average compared with baselines.", 
+                "figure": "./files/Fig/H-SwarmLoc.png",
+                "figurewidth": "500",
+                "title": "Efficient Scheduling for Localization of Heterogeneous MAV Swarm"
+            }
+        ]
+    }
+]
