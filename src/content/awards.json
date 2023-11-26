@@ -1,19 +1,15 @@
 [
     {
         "category": "Honors", "list": [
+            {"date": "2023", "content": "Best Presentation Award, ACM Ubicomp 2023 CPD"},
             {"date": "2023", "content": "The Second Prize Scholarship, Tsinghua University | 清华大学综合二等奖学金"},
-            {"date": "2022", "content": "Outstanding Undergraduate, Hunan Province | 湖南省优秀本科毕业生"},
-            {"date": "2022", "content": "Outstanding Undergraduate, CSU | 中南大学优秀本科毕业生"},
-            {"date": "2022", "content": "The First Prize Scholarship, CSU | 中南大学学年一等奖学金"},
-            {"date": "2022", "content": "Outstanding Student Model Nomination, CSU | 中南大学 优秀学生标兵提名 (30/30000~)"},
-            {"date": "2021", "content": "The First Prize Scholarship, CSU | 中南大学学年一等奖学金"},
-            {"date": "2021", "content": "Outstanding Student Model Nomination, CSU | 中南大学 优秀学生标兵提名 (30/30000~)"},
-            {"date": "2020", "content": "The First Prize Scholarship, CSU | 中南大学学年一等奖学金"},
-            {"date": "2020", "content": "Third Prize (Top 20 in the country) of National College Students Software Innovation Competition | 全国大学生软件创新大赛 三等奖(全国前20), 示范性软件学院联盟"},
-            {"date": "2019", "content": "The First Prize Scholarship, CSU | 中南大学学年一等奖学金"},
-            {"date": "2019", "content": "National Scholarship, Ministry of Education | 国家奖学金"},
-            {"date": "2019", "content": "First Prize of China Robot Competition Advanced Vision Competition, CAA | 中国机器人大赛 先进视觉赛 一等奖"},
-            {"date": "2019", "content": "Finalist (Fifth in the Country) of National College Students Intelligent Design Competition, CAAI | 全国大学生智能设计大赛 特等奖提名(全国第五)"}
+            {"date": "2022", "content": "Best Paper Award, ACM Ubicomp 2022 CPD"},
+            {"date": "2022", "content": "Outstanding Undergraduate (<u>Top 1% in this year</u>), Hunan Province | 湖南省创新创业优秀本科毕业生"},
+            {"date": "2022", "content": "Outstanding Undergraduate (<u>Top 3% in this year</u>), CSU | 中南大学优秀本科毕业生"},
+            {"date": "2022", "content": "Outstanding Student Model Nomination (<u>Top 30 out of 30000~ students</u>), CSU | 中南大学 优秀学生标兵提名"},
+            {"date": "2019", "content": "National Scholarship (<u>Top 1 out of all 66 students</u>), Ministry of Education | 国家奖学金"},
+            {"date": "2019", "content": "First Prize (<u>Top 1 out of all teams</u>) of China Robot Competition Advanced Vision Competition, CAA | 中国机器人大赛 先进视觉赛 一等奖"},
+            {"date": "2019", "content": "Finalist (<u>Top 5 out of all teams</u>) of National College Students Intelligent Design Competition, CAAI | 全国大学生智能设计大赛 特等奖提名(全国第五)"}
         ]
     }
 ]

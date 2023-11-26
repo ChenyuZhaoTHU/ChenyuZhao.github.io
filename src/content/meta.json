@@ -4,7 +4,8 @@
     "contact": {
         "Google Scholar": {"icon": "ai ai-google-scholar", "url": "https://scholar.google.com.hk/citations?user=V2lH0rMAAAAJ&hl=zh-CN&oi=ao"},
         "ResearchGate": {"icon": "ai ai-researchgate", "url": "https://www.researchgate.net/profile/Haoyang-Wang-19"},
-        "ORCID": {"icon": "ai ai-orcid", "url": "https://orcid.org/my-orcid?orcid=0000-0002-1392-0362"}
+        "ORCID": {"icon": "ai ai-orcid", "url": "https://orcid.org/my-orcid?orcid=0000-0002-1392-0362"},
+        "Github": {"icon": "fa fa-github", "url": "https://github.com/HaoyangWang0428"}
     }
 }
 
