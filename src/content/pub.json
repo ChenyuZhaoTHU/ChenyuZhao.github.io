@@ -1,6 +1,6 @@
 [
     {
-        "bibtex": "@inproceedings{wang2023califormer,\ntitle={CaliFormer: Leveraging Unlabeled Measurements to Calibrate Sensors with Self-supervised Learning},\nauthor={Wang, Haoyang and Liu, Yuxuan and Zhao, Chenyu and He, Jiayou and Ding, Wenbo and Chen, Xinlei},\nbooktitle={Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing & the 2023 ACM International Symposium on Wearable Computing},\npages={743--748},\nyear={2023}\n}\n",
+        "bibtex": "@inproceedings{wang2023califormer,\ntitle={CaliFormer: Leveraging Unlabeled Measurements to Calibrate Sensors with Self-supervised Learning},\nauthor={Wang, Haoyang and Liu, Yuxuan and Zhao, Chenyu and He, Jiayou and Ding, Wenbo and Chen, Xinlei},\nbooktitle={In the Proceedings of the ACM Ubicomp 2023 CPD Workshop},\npages={743--748},\nyear={2023}\n}\n",
         "authors": {
             "boldAuthors": ["Haoyang Wang"],
             "correspondingAuthors": [
@@ -20,7 +20,7 @@
         "type": true
     },
     {
-        "bibtex": "@inproceedings{zhao2023smoothlander,\ntitle={SmoothLander: A Quadrotor Landing Control System with Smooth Trajectory Guarantee Based on Reinforcement Learning},\nauthor={Zhao, Chenyu and Wang, Haoyang and Li, Jiaqi and Man, Fanhang and Mu, Shilong and Ding, Wenbo and Zhang, Xiao-Ping and Chen, Xinlei},\nbooktitle={Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing & the 2023 ACM International Symposium on Wearable Computing},\npages={682--687},\nyear={2023}\n}\n",
+        "bibtex": "@inproceedings{zhao2023smoothlander,\ntitle={SmoothLander: A Quadrotor Landing Control System with Smooth Trajectory Guarantee Based on Reinforcement Learning},\nauthor={Zhao, Chenyu and Wang, Haoyang and Li, Jiaqi and Man, Fanhang and Mu, Shilong and Ding, Wenbo and Zhang, Xiao-Ping and Chen, Xinlei},\nbooktitle={In the Proceedings of the ACM Ubicomp 2023 CPD Workshop},\npages={682--687},\nyear={2023}\n}\n",
         "authors": {
             "boldAuthors": ["Haoyang Wang"],
             "correspondingAuthors": [
@@ -40,7 +40,7 @@
         "type": true
     },
     {
-        "bibtex": "@inproceedings{wang2023teng,\ntitle={TENG-enabled Self-powered Human-machine Interfaces for the Metaverse},\nauthor={Wang, Haoyang and Man, Fanhang and Wang, Zihan and Liu, Yuxuan and Chen, Xinlei and Ding, Wenbo},\nbooktitle={Proceedings of the 22nd International Conference on Information Processing in Sensor Networks},\npages={306--307},\nyear={2023}\n}\n",
+        "bibtex": "@inproceedings{wang2023teng,\ntitle={TENG-enabled Self-powered Human-machine Interfaces for the Metaverse},\nauthor={Wang, Haoyang and Man, Fanhang and Wang, Zihan and Liu, Yuxuan and Chen, Xinlei and Ding, Wenbo},\nbooktitle={In the Proceedings of the IEEE IPSN 2023},\npages={306--307},\nyear={2023}\n}\n",
         "authors": {
             "boldAuthors": ["Haoyang Wang"],
             "correspondingAuthors": [
@@ -60,7 +60,7 @@
         "type": true
     },
     {
-        "bibtex": "@inproceedings{wang2022h,\ntitle={H-SwarmLoc: Efficient Scheduling for Localization of Heterogeneous MAV Swarm with Deep Reinforcement Learning},\nauthor={Wang, Haoyang and Chen, Xuecheng and Cheng, Yuhan and Wu, Chenye and Dang, Fan and Chen, Xinlei},\nbooktitle={Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems},\npages={1148--1154},\nyear={2022}\n}\n",
+        "bibtex": "@inproceedings{wang2022h,\ntitle={H-SwarmLoc: Efficient Scheduling for Localization of Heterogeneous MAV Swarm with Deep Reinforcement Learning},\nauthor={Wang, Haoyang and Chen, Xuecheng and Cheng, Yuhan and Wu, Chenye and Dang, Fan and Chen, Xinlei},\nbooktitle={In the Proceedings of the ACM Sensys 2022 CML-IoT Workshop},\npages={1148--1154},\nyear={2022}\n}\n",
         "authors": {
             "boldAuthors": ["Haoyang Wang"],
             "correspondingAuthors": [
@@ -76,11 +76,11 @@
             "pdf": "./files/PDF/HSwarmLoc_CML_IoT.pdf",
             "slides": "./files/Slides/H-SwarmLoc_PPT.pdf"
         },
-        "abstract": "Emergency rescue scenarios are considered to be high-risk scenarios. Using a micro air vehicle (MAV) swarm to explore the environment can provide valuable environmental information. However, due to the absence of localization infrastructure and the limited on-board capabilities, it’s challenging for the low-cost MAV swarm to maintain precise localization. In this paper, a collaborative localization system for the low-cost heterogeneous MAV swarm is proposed. This system takes full advantage of advanced MAV to effectively achieve accurate localization of the heterogeneous MAV swarm through collaboration. Subsequently, H-SwarmLoc, a reinforcement learning-based planning method is proposed to plan the advanced MAV with a non-myopic objective in real-time. The experimental results show that the localization performance of our method improves 40% on average compared with baselines.",
+        "abstract": "Emergency rescue scenarios are considered to be high-risk scenarios. Using a micro air vehicle (MAV) swarm to explore the environment can provide valuable environmental information. However, due to the absence of localization infrastructure and the limited on-board capabilities, it's challenging for the low-cost MAV swarm to maintain precise localization. In this paper, a collaborative localization system for the low-cost heterogeneous MAV swarm is proposed. This system takes full advantage of advanced MAV to effectively achieve accurate localization of the heterogeneous MAV swarm through collaboration. Subsequently, H-SwarmLoc, a reinforcement learning-based planning method is proposed to plan the advanced MAV with a non-myopic objective in real-time. The experimental results show that the localization performance of our method improves 40% on average compared with baselines.",
         "type": true
     },
     {
-        "bibtex": "@inproceedings{chen2022deliversense,\ntitle={DeliverSense: Efficient delivery drone scheduling for crowdsensing with deep reinforcement learning},\nauthor={Chen, Xuecheng and Wang, Haoyang and Li, Zuxin and Ding, Wenbo and Dang, Fan and Wu, Chengye and Chen, Xinlei},\nbooktitle={Adjunct Proceedings of the 2022 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2022 ACM International Symposium on Wearable Computers},\npages={403--408},\nyear={2022}\n}\n",
+        "bibtex": "@inproceedings{chen2022deliversense,\ntitle={DeliverSense: Efficient delivery drone scheduling for crowdsensing with deep reinforcement learning},\nauthor={Chen, Xuecheng and Wang, Haoyang and Li, Zuxin and Ding, Wenbo and Dang, Fan and Wu, Chengye and Chen, Xinlei},\nbooktitle={In the Proceedings of the ACM Ubicomp 2022 CPD Workshop},\npages={403--408},\nyear={2022}\n}\n",
         "authors": {
             "boldAuthors": ["Haoyang Wang"],
             "correspondingAuthors": [
