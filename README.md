@@ -50,3 +50,15 @@ npm run build
 4. All info are stored in `./src/content/*.json`, please modify these files.
 5. Analytics are hard-coded in `index.html`, make sure to remove them.
 6. footer links are hard-coded in `App.vue`
+
+## a little problem
+
+1. 需要修改路径 /dist/index 文件
+
+./assets/index-24f9fb47.js
+
+./assets/index-2884ae93.css
+
+2. 需要修改个人照片路径，全局搜索照片名称，在asset之前加 "."
+
+M4="./assets/personal-photo-6d66aeda.jpg"
