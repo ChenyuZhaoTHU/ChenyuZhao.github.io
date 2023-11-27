@@ -6,6 +6,7 @@ import PublicationList from './components/PublicationList.vue'
 import AwardList from './components/AwardList.vue'
 import Footer from './components/Footer.vue'
 import ProjectList from './components/ProjectList.vue'
+import RecruitmentList from './components/RecruitmentList.vue'
 </script>
 
 <template>
@@ -25,6 +26,7 @@ import ProjectList from './components/ProjectList.vue'
     <hr>
     <AwardList />
     <hr>
+    <RecruitmentList />
     <!-- <TalkList /> -->
     <!-- <SoftwareList /> -->
     

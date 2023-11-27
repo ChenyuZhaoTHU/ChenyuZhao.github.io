@@ -62,3 +62,10 @@ npm run build
 2. 需要修改个人照片路径，全局搜索照片名称，在asset之前加 "."
 
 M4="./assets/personal-photo-6d66aeda.jpg"
+
+## how to submit
+
+git branch gh-pages //创建gh-pages分支
+git checkout gh-pages //切换到gh-pages分支
+git add -f dist //强制把dist文件夹提交到github
+git subtree push --prefix dist origin gh-pages //把dist文件夹单独部署到gh-pages分支
