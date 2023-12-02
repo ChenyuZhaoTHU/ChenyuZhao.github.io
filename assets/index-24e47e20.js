@@ -1126,35 +1126,35 @@ year={2024}
 `,authors:{boldAuthors:["Haoyang Wang"],correspondingAuthors:["Xinlei Chen"],equalContributionAuthors:["Haoyang Wang","Jingao Xu"]},note:"",resources:{pdf:null,slides:null},abstract:null,type:!0},{bibtex:`@inproceedings{wang2023califormer,
 title={CaliFormer: Leveraging Unlabeled Measurements to Calibrate Sensors with Self-supervised Learning},
 author={Wang, Haoyang and Liu, Yuxuan and Zhao, Chenyu and He, Jiayou and Ding, Wenbo and Chen, Xinlei},
-booktitle={In the Proceedings of the ACM Ubicomp 2023 CPD Workshop},
+booktitle={In the Proceedings of the ACM Ubicomp CPD Workshop},
 pages={743--748},
 year={2023}
 }
 `,authors:{boldAuthors:["Haoyang Wang"],correspondingAuthors:["Xinlei Chen"],equalContributionAuthors:["Haoyang Wang","Yuxuan Liu"]},note:"",resources:{pdf:"./files/PDF/CaliFormer_CPD.pdf",slides:"./files/Slides/CaliFormer_PPT.pdf"},abstract:"Accurate calibration of low-cost sensors is critical for improving their potential in environmental monitoring. State-of-the-art (SOTA) methods based on supervised learning commonly calibrate sensor measurements with ground truth from the immediate past or future. However, these techniques rely heavily on labeled data which is challenging to obtain in real-world scenarios. Thus, this paper introduces CaliFormer, a novel representation learning model using self-supervised learning to extract time- and spatial-invariant knowledge from unlabeled measurements. Moreover, we propose pre-training enhancements and model architecture modifications to help train CaliFormer. We then fine-tune the calibration model with the learned representations, which is supervised by limited labeled data. Finally, we comprehensively evaluate our calibration model with a dataset collected by low-cost sensors. Results show that our model outperforms other SOTA calibration methods significantly.",type:!0},{bibtex:`@inproceedings{zhao2023smoothlander,
 title={SmoothLander: A Quadrotor Landing Control System with Smooth Trajectory Guarantee Based on Reinforcement Learning},
 author={Zhao, Chenyu and Wang, Haoyang and Li, Jiaqi and Man, Fanhang and Mu, Shilong and Ding, Wenbo and Zhang, Xiao-Ping and Chen, Xinlei},
-booktitle={In the Proceedings of the ACM Ubicomp 2023 CPD Workshop},
+booktitle={In the Proceedings of the ACM Ubicomp CPD Workshop},
 pages={682--687},
 year={2023}
 }
 `,authors:{boldAuthors:["Haoyang Wang"],correspondingAuthors:["Xinlei Chen"],equalContributionAuthors:["Chenyu Zhao","Haoyang Wang"]},note:"",resources:{pdf:"./files/PDF/smoothlander_CPD.pdf",slides:null},abstract:"The landing process of the quadrotors can be affected by the disturbance from the ground effect when approaching the landing surface. Such a disturbance significantly increases the chances of collision and jittering of the quadrotors, thereby posing threats to the safety of both the quadrotors and the mounted equipment. In light of this, we propose SmoothLander, an aerodynamics and reinforcement learning-based control system to stabilize the quadrotors under the influence of the ground effect and control noise. First, we design a landing trajectory for the quadrotor in accordance with aerodynamics. Then we design a reinforcement learning-based command generator to effectively optimize the quadrotor’s landing behavior. We evaluate our control system through physical feature-based simulation and in-field experiments. The results show that our method can enable the quadrotor to land more smoothly and stably against control noise than the baseline.",type:!0},{bibtex:`@inproceedings{wang2023teng,
 title={TENG-enabled Self-powered Human-machine Interfaces for the Metaverse},
 author={Wang, Haoyang and Man, Fanhang and Wang, Zihan and Liu, Yuxuan and Chen, Xinlei and Ding, Wenbo},
-booktitle={In the Proceedings of the IEEE IPSN 2023},
+booktitle={In the Proceedings of the IEEE IPSN},
 pages={306--307},
 year={2023}
 }
 `,authors:{boldAuthors:["Haoyang Wang"],correspondingAuthors:["Xinlei Chen"],equalContributionAuthors:["Haoyang Wang","Fanhang Man"]},note:"",resources:{pdf:"./files/PDF/TENG_IPSN.pdf",slides:null},abstract:"Human-machine interface (HMI) of high degrees of freedom (DoF) is one of the most critical bases of the metaverse. The ideal HMI for the metaverse should be cheap, robust, customizable, and ergonomically friendly. In light of this, we propose a triboelectric nanogenerator (TENG)-based sensing system. We developed a lowcost, soft, light, and customizable TENG sensor to collect data from the human body. We then used an artificial neural network (ANN) to obtain the corresponding human motion from collected sensory data. The effectiveness of the proposed system is demonstrated with experiments of a working prototype.",type:!0},{bibtex:`@inproceedings{wang2022h,
 title={H-SwarmLoc: Efficient Scheduling for Localization of Heterogeneous MAV Swarm with Deep Reinforcement Learning},
 author={Wang, Haoyang and Chen, Xuecheng and Cheng, Yuhan and Wu, Chenye and Dang, Fan and Chen, Xinlei},
-booktitle={In the Proceedings of the ACM Sensys 2022 CML-IoT Workshop},
+booktitle={In the Proceedings of the ACM Sensys CML-IoT Workshop},
 pages={1148--1154},
 year={2022}
 }
 `,authors:{boldAuthors:["Haoyang Wang"],correspondingAuthors:["Xinlei Chen"],equalContributionAuthors:["Haoyang Wang","Xuecheng Chen"]},note:"",resources:{pdf:"./files/PDF/HSwarmLoc_CML_IoT.pdf",slides:"./files/Slides/H-SwarmLoc_PPT.pdf"},abstract:"Emergency rescue scenarios are considered to be high-risk scenarios. Using a micro air vehicle (MAV) swarm to explore the environment can provide valuable environmental information. However, due to the absence of localization infrastructure and the limited on-board capabilities, it's challenging for the low-cost MAV swarm to maintain precise localization. In this paper, a collaborative localization system for the low-cost heterogeneous MAV swarm is proposed. This system takes full advantage of advanced MAV to effectively achieve accurate localization of the heterogeneous MAV swarm through collaboration. Subsequently, H-SwarmLoc, a reinforcement learning-based planning method is proposed to plan the advanced MAV with a non-myopic objective in real-time. The experimental results show that the localization performance of our method improves 40% on average compared with baselines.",type:!0},{bibtex:`@inproceedings{chen2022deliversense,
 title={DeliverSense: Efficient delivery drone scheduling for crowdsensing with deep reinforcement learning},
 author={Chen, Xuecheng and Wang, Haoyang and Li, Zuxin and Ding, Wenbo and Dang, Fan and Wu, Chengye and Chen, Xinlei},
-booktitle={In the Proceedings of the ACM Ubicomp 2022 CPD Workshop},
+booktitle={In the Proceedings of the ACM Ubicomp CPD Workshop},
 pages={403--408},
 year={2022}
 }
