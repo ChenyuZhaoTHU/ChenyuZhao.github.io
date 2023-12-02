@@ -1,5 +1,25 @@
 [
     {
+        "bibtex": "@inproceedings{wang2023TransformLoc,\ntitle={TransformLoc: Transforming MAVs into Mobile Localization Infrastructures in Heterogeneous Swarms},\nauthor={Wang, Haoyang and Xu, Jingao and Zhao, Chenyu and Lu, Zihong and Cheng, Yuhan, Chen and Chen, Xuecheng and Zhang, Xiao-Ping and Liu, Yunhao and Chen, Xinlei},\nbooktitle={In the Proceedings of the IEEE INFOCOM}, \nyear={2024}\n}\n",
+        "authors": {
+            "boldAuthors": ["Haoyang Wang"],
+            "correspondingAuthors": [
+                "Xinlei Chen"
+            ],
+            "equalContributionAuthors": [
+                "Haoyang Wang",
+                "Jingao Xu"
+            ]
+        },
+        "note": "",
+        "resources": {
+            "pdf": null,
+            "slides": null
+        },
+        "abstract": null,
+        "type": true
+    },
+    {
         "bibtex": "@inproceedings{wang2023califormer,\ntitle={CaliFormer: Leveraging Unlabeled Measurements to Calibrate Sensors with Self-supervised Learning},\nauthor={Wang, Haoyang and Liu, Yuxuan and Zhao, Chenyu and He, Jiayou and Ding, Wenbo and Chen, Xinlei},\nbooktitle={In the Proceedings of the ACM Ubicomp 2023 CPD Workshop},\npages={743--748},\nyear={2023}\n}\n",
         "authors": {
             "boldAuthors": ["Haoyang Wang"],
