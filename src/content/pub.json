@@ -15,7 +15,7 @@
             "pdf": "./files/PDF/m36999-wang final.pdf",
             "slides": null
         },
-        "abstract": null,
+        "abstract": "A heterogeneous micro aerial vehicles (MAV) swarm consists of resource-intensive but expensive advanced MAVs (AMAVs) and resource-limited but cost-effective basic MAVs (BMAVs), offering opportunities in diverse fields. Accurate and real-time localization is crucial for MAV swarms, but current practices lack a low-cost, high-precision, and real-time solution, especially for lightweight BMAVs. We find an opportunity to accomplish the task by transforming AMAVs into mobile localization infrastructures for BMAVs. However, turning this insight into a practical system is non-trivial due to challenges in location estimation with BMAVs' unknown and diverse localization errors and resource allocation of AMAVs given coupled influential factors. This study proposes TransformLoc, a new framework that transforms AMAVs into mobile localization infrastructures, specifically designed for low-cost and resource-constrained BMAVs. We first design an error-aware joint location estimation model to perform intermittent joint location estimation for BMAVs and then design a proximity-driven adaptive grouping-scheduling strategy to allocate resources of AMAVs dynamically. TransformLoc achieves a collaborative, adaptive, and cost-effective localization system suitable for large-scale heterogeneous MAV swarms. We implement TransformLoc on industrial drones and validate its performance. Results show that TransformLoc outperforms baselines including SOTA up to 68% in localization performance, motivating up to 60% navigation success rate improvement.",
         "type": true
     },
     {
