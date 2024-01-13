@@ -21,8 +21,8 @@ import RecruitmentList from './components/RecruitmentList.vue'
     <EducationList />
     <hr>
     <PublicationList />
-    <hr>
-    <ProjectList />
+    <!-- <hr>
+    <ProjectList /> -->
     <hr>
     <AwardList />
     <hr>

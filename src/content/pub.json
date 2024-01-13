@@ -5,9 +5,6 @@
             "boldAuthors": ["Haoyang Wang"],
             "correspondingAuthors": [
                 "Xinlei Chen"
-            ],
-            "equalContributionAuthors": [
-                "Haoyang Wang"
             ]
         },
         "note": "",
@@ -59,7 +56,7 @@
         "type": true
     },
     {
-        "bibtex": "@inproceedings{wang2023teng,\ntitle={TENG-enabled Self-powered Human-machine Interfaces for the Metaverse},\nauthor={Wang, Haoyang and Man, Fanhang and Wang, Zihan and Liu, Yuxuan and Chen, Xinlei and Ding, Wenbo},\nbooktitle={In the Proceedings of the IEEE IPSN},\npages={306--307},\nyear={2023}\n}\n",
+        "bibtex": "@inproceedings{wang2023teng,\ntitle={Poster: TENG-enabled Self-powered Human-machine Interfaces for the Metaverse},\nauthor={Wang, Haoyang and Man, Fanhang and Wang, Zihan and Liu, Yuxuan and Chen, Xinlei and Ding, Wenbo},\nbooktitle={In the Proceedings of the IEEE IPSN},\npages={306--307},\nyear={2023}\n}\n",
         "authors": {
             "boldAuthors": ["Haoyang Wang"],
             "correspondingAuthors": [
