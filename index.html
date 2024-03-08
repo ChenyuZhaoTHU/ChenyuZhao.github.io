@@ -61,7 +61,8 @@
 		 <p> 
 		<ul class="b">
 			<p> 
-
+			
+			<li> [2024.03] Our work <b>MobiAir</b> is accepted by <b>ACM MobiSys 2024</b>! </li>
 			<li> [2024.02] Three posters are accepted by <a href="http://www.hotmobile.org/2024/index.php?id=demo">HotMobile 2024</a> and IEEE INFOCOM 2024!</li>
 			<li> [2024.02] I serve as a T.A. of the course "Urban low altitude messenger" host by Tsinghua SIGS and Meituan Inc., welcome to join us!</li>
 			<li> [2023.12] We win the <b>1st</b> in 1st Low-Altitude Economy Flight Management Challenge Creative Competition hold by <a href="https://www.meituan.com/news/NN231219070003592">Meituan Inc.</a>!</li>
@@ -88,7 +89,38 @@
 	<ul class="b">
 	<!-- <p><h4>Conference Paper</h4></p> -->
 
-	  <tr onmouseout="TransformLoc_stop()" onmouseover="TransformLoc_start()">
+	<tr onmouseout="MobiAir_stop()" onmouseover="MobiAir_start()">
+	    <td style="padding:5px;width:25%;vertical-align:middle">
+	      <div class="one">
+			<div class="two" id='MobiAir_image'><img src='images/MobiAir_MobiSys.png' width="210"></div>
+			<img src='images/MobiAir_MobiSys.png' width="210">
+	      </div>
+	      <script type="text/javascript">
+			function MobiAir_start() {
+			document.getElementById('MobiAir_image').style.opacity = "1";
+			}
+
+			function MobiAir_stop() {
+			document.getElementById('MobiAir_image').style.opacity = "0";
+			}
+			MobiAir_stop()
+	      </script>
+	    </td>
+		
+            <td style="padding:10px;width:75%;vertical-align:middle">
+		<p>MobiAir: Enable Low-cost Gas Sensors for City-scale and Fine-grained Air Quality Mobile Sensing</p>
+			Yuxuan Liu*, <u><b>Haoyang Wang</b>*</u> (*co-first authors), Fanhang Man, Jingao Xu, Fan Dang, Yunhao Liu, Xiao-Ping Zhang,  Xinlei Chen <br>
+		<p> [<b>ACM MobiSys 2024</b>] In the 22nd ACM International Conference on Mobile Systems, Applications, and Services (Acceptance ratio: 43/263 = 16.3%) <br>
+		<p> 	
+			<!-- [<a href="data/TransformLoc_INFOCOM.pdf"> paper</a>]  -->
+			<!-- [<a href="data/Harmony_MobiSys_slides.pptx"> slides</a>] 
+			[<a href="https://github.com/xmouyang/Harmony"> codes</a>]
+		    [<a href="https://github.com/xmouyang/Harmony/blob/main/dataset.md">datasets</a>] -->
+		</p> 
+		 </td>			
+          </tr>
+
+	<tr onmouseout="TransformLoc_stop()" onmouseover="TransformLoc_start()">
 	    <td style="padding:5px;width:25%;vertical-align:middle">
 	      <div class="one">
 			<div class="two" id='TransformLoc_image'><img src='images/TransformLoc_INFOCOM.png' width="210"></div>
@@ -108,7 +140,7 @@
 		
             <td style="padding:10px;width:75%;vertical-align:middle">
 		<p>TransformLoc: Transforming MAVs into Mobile Localization Infrastructures in Heterogeneous Swarms</p>
-			<u><b>Haoyang Wang</b></u>, Jingao Xu, Chenyu Zhao, Zihong Lu, Chen Cheng, Xuecheng Chen, Xiao-Ping Zhang, Yunhao Liu, Xinlei Chen <br>
+			<u><b>Haoyang Wang</b></u>, Jingao Xu, Chenyu Zhao, Zihong Lu, Yuhan Cheng, Xuecheng Chen, Xiao-Ping Zhang, Yunhao Liu, Xinlei Chen <br>
 		<p> [<b>IEEE INFOCOM 2024</b>] In the IEEE International Conference on Computer Communications 2024 (Acceptance ratio: 256/1307=19.5%) <br>
 		<p> 	[<a href="data/TransformLoc_INFOCOM.pdf"> paper</a>] 
 			<!-- [<a href="data/Harmony_MobiSys_slides.pptx"> slides</a>] 
@@ -137,7 +169,7 @@
 	    </td>
             <td style="padding:10px;width:75%;vertical-align:middle">
 		<p> <a href="https://dl.acm.org/doi/abs/10.1145/3560905.3568432"> H-SwarmLoc: Efficient Scheduling for Localization of Heterogeneous MAV Swarm with Deep Reinforcement Learning </a></p>
-			<u><b>Haoyang Wang*</b></u>, Xuecheng Chen*  (*co-first authors), Yuhan Cheng, Chenye Wu, Fan Dang, Xinlei Chen <br>
+			<u><b>Haoyang Wang*</b></u>, Xuecheng Chen*, Yuhan Cheng, Chenye Wu, Fan Dang, Xinlei Chen <br>
 		<p> [<b>ACM Sensys CML-IoT 2022</b>] In the The 20th ACM Conference on Embedded Networked Sensor Systems CML-IoT Workshop 2022 <br>
 		<p> 	[<a href="data/HSwarmLoc_CML_IoT.pdf"> paper</a>] 
 			[<a href="data/H-SwarmLoc_PPT.pdf"> slides</a>] 
